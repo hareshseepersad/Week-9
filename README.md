@@ -21,3 +21,8 @@ The installtion was tedious and required a lot of background knowledge of google
 
 The next issue was getting the seesion.json file. Following the commands given in instructions, the commands would not work on Windows, Google Cloud Platform SDK. I found a work around involving logging into google cloud account and using browser ssh terminal, which allowed a direct download over the browser. 
 
+At time of this wrtieup, there were close to 4000 attacks from dionaea and 500 from snort.
+
+https://github.com/hareshseepersad/Week-9/blob/master/session.json
+
+[]https://github.com/hareshseepersad/Week-9/blob/master/Week%209-Honeypot.gif
