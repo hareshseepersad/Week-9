@@ -25,4 +25,5 @@ At time of this wrtieup, there were close to 4000 attacks from dionaea and 500 f
 
 https://github.com/hareshseepersad/Week-9/blob/master/session.json
 
-[]https://github.com/hareshseepersad/Week-9/blob/master/Week%209-Honeypot.gif
+![](https://github.com/hareshseepersad/Week-9/blob/master/Week%209-Honeypot.gif)
+
