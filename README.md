@@ -23,7 +23,10 @@ The next issue was getting the seesion.json file. Following the commands given i
 
 At time of this wrtieup, there were close to 4000 attacks from dionaea and 500 from snort.
 
+
+SESSION.JSON FILE
 https://github.com/hareshseepersad/Week-9/blob/master/session.json
+
 
 ![](https://github.com/hareshseepersad/Week-9/blob/master/Week%209-Honeypot.gif)
 
