@@ -4,7 +4,7 @@ Time spent: >24 hours spent in total
 Objective: Learn about Network Security(NetSec) by attacking and being attacked vulnarable networked resources. For this purpose a basic honeypot will be stood up and its effectiveness at detecting and/or collecting data about an attack will be demonstrated.
 
 The Honeypot Built:
-A honeypot is a decoy application, server, or other networked resource that intentionally exposes insecure features which, when exploited by an attacker, will reveal information about the methods, tools, and possibly even the identity of that attacker. For this assignment, Honeypot Dionaea over HTTP is deployed as mhn-honeypot-1. It is a honeypot used to trap malware samples.
+A honeypot is a decoy application, server, or other networked resource that intentionally exposes insecure features which, when exploited by an attacker, will reveal information about the methods, tools, and possibly even the identity of that attacker. For this assignment, Honeypot Dionaea over HTTP is deployed as mhn-honeypot-1.
 
 Ubunti-Snort was also used in Honeypot-2.
 
